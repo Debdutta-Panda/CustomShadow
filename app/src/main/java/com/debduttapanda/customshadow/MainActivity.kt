@@ -65,7 +65,7 @@ class MainActivity : ComponentActivity() {
                     ){
                         Box(
                             modifier = Modifier
-                                .padding(30.dp)
+                                .padding(40.dp)
                                 .shadow(
                                     shadowColor.value,
                                     borderRadius = shadowBorderRadius.value.dp,
